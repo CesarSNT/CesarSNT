@@ -7,28 +7,16 @@
 
 ## ⚡ Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <b>💻 Backend</b><br><br>
-      Java • Spring Boot • REST APIs • Hibernate • JPA
-    </td>
-    <td align="center" width="50%">
-      <b>🗄️ Databases</b><br><br>
-      MySQL
-    </td>
-  </tr>
+### 💻 Backend
+`Java` • `Spring Boot` • `REST APIs` • `Hibernate` • `JPA`
 
-  <tr>
-    <td align="center" width="50%">
-      <b>🐍 Python & Data Tools</b><br><br>
-      Python • FastAPI • Flask • Pandas
-    </td>
-    <td align="center" width="50%">
-      <b>⚙️ Tools & Technologies</b><br><br>
-      Git • GitHub
-    </td>
-  </tr>
-</table>
+### 🗄️ Databases
+`MySQL`
+
+### 🐍 Python & Data Tools
+`Python` • `FastAPI` • `Flask` • `Pandas`
+
+### ⚙️ Tools & Technologies
+`Git` • `GitHub`
 ## 💡 Current Focus
 Focused on database management with MySQL and backend development, including REST APIs and automation tools.
