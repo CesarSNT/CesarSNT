@@ -2,7 +2,7 @@
 
 ## About Me
 🎓 Systems Engineering student.  
-💻 Passionate about Backend Development, REST APIs, and automation.  
+💻 Passionate about database systems and data management, along with backend development and REST APIs.
 🗄️ Strong interest in databases and data management with MySQL.  
 🚀 Constantly learning new technologies and building real-world projects.
 
