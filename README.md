@@ -1,14 +1,14 @@
 # 👨‍💻 Cesar Cascabita
 
-## 👋 About Me
+## About Me
 🎓 Systems Engineering student.  
 💻 Passionate about Backend Development, REST APIs, and automation.  
 🗄️ Strong interest in databases and data management with MySQL.  
 🚀 Constantly learning new technologies and building real-world projects.
 
-## ⚡ Tech Stack
+## Tech Stack
 
-### 🚀 Backend
+### 💻 Backend
 Java • Spring Boot • REST APIs • Hibernate • JPA
 
 ### 🗄️ Databases
@@ -21,4 +21,4 @@ Python • FastAPI • Flask • Pandas
 Git • GitHub
 
 ## 💡 Current Focus
-Building backend applications, REST APIs, automation tools, and improving database management skills.
+Focused on database management with MySQL and backend development, including REST APIs and automation tools.
