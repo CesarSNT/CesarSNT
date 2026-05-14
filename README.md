@@ -2,7 +2,7 @@
 
 ## About Me
 🎓 Systems Engineering student.  
-💻 Passionate about database systems and backend development with REST APIs.  
+💻 Interest about database systems and backend development with REST APIs.  
 🚀 Constantly learning new technologies and building real-world projects.
 
 ## ⚡ Tech Stack
